@@ -13,5 +13,6 @@ public class Test {
 			a--;
 		}
 		System.out.println(mul);
+		System.out.println("Your multiplication is done");
 	}
 }
